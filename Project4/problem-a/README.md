@@ -1,0 +1,1 @@
+# Problem: Responsive Splash Page
